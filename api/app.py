@@ -42,6 +42,8 @@ def user_messages(channel_id):
         } 
         for message in messages
     ])
+    
+
 
 @app.route('/api/users')
 @jwt_required

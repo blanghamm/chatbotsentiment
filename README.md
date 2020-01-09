@@ -37,3 +37,19 @@ npm run build
 ```
 npm run lint
 ```
+
+### Open two tabs of localhost
+
+```
+Login using these credentials
+on each instance of the project.
+
+login: usertest
+password: testing123
+
+login: usertestsecond
+password: testing123
+
+begin sending messages between each user
+
+```
