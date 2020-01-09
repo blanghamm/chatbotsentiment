@@ -37,11 +37,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Python Setup
-
-cd into api / start virtual env with source env/bin/activate
-
-### Run Server
-
-flask run
